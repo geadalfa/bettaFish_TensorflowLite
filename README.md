@@ -13,13 +13,16 @@ Loss plot :
 ![](bettaFish/loss.JPG)
 
 Accuracy plot : 
+
 ![](bettaFish/accuracy.JPG)
 
 # Model Evaluation 
 Confusion Matrix : 
+
 ![](bettaFish/eval1.JPG)
 
 Precision, Recall, F1-Score & Support : 
+
 ![](bettaFish/eval2.JPG)
 
 # Model Prediction Results
